@@ -19,9 +19,10 @@
 
 ## UI设计
 
-![界面1](https://github.com/lihongbin100/h5-zz/blob/master/doc/h1.jpeg)
-![界面2](https://github.com/lihongbin100/h5-zz/blob/master/doc/h2.jpeg)
-![界面3](https://github.com/lihongbin100/h5-zz/blob/master/doc/h3.jpeg)
-![界面4](https://github.com/lihongbin100/h5-zz/blob/master/doc/h4.jpeg)
-![界面5](https://github.com/lihongbin100/h5-zz/blob/master/doc/h5.jpeg)
-![界面6](https://github.com/lihongbin100/h5-zz/blob/master/doc/h6.jpeg)
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h1.jpeg" width="200px">
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h2.jpeg" width="200px">
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h3.jpeg" width="200px">
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h4.jpeg" width="200px">
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h5.jpeg" width="200px">
+<img src="https://github.com/lihongbin100/h5-zz/blob/master/doc/h6.jpeg" width="200px">
+
