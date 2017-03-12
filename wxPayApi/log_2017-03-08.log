@@ -1,0 +1,660 @@
+执行日期：2017-03-08 11:09:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081108585172","total_fee":1,"trade_type":"JSAPI","time_start":"20170308110858","time_expire":"20170308111458","attach":"{\"starttime\":\"20170308110858\",\"endtime\":\"20170308111458\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"yhue65d14iz0hpwu1u9qm07uwd6lqxvd","sign":"24C63F5DF87197861D4FA132550C6069"}
+
+
+执行日期：2017-03-08 11:09:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 12:38:47
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081238447691","total_fee":1,"trade_type":"JSAPI","time_start":"20170308123844","time_expire":"20170308124444","attach":"{\"starttime\":\"20170308123844\",\"endtime\":\"20170308124444\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"ee53ij71nkgz7dcn62itgd4diwzwx16w","sign":"8FCFCA2AB8ED2A23A8291BFCEB896D6F"}
+
+
+执行日期：2017-03-08 12:38:47
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 12:39:53
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081239521778","total_fee":1,"trade_type":"JSAPI","time_start":"20170308123952","time_expire":"20170308124552","attach":"{\"starttime\":\"20170308123952\",\"endtime\":\"20170308124552\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"ktgzywz0hr66ocwaux8zyj11hfbn8wgk","sign":"3653A720C2B932C3B40F790E1878AA67"}
+
+
+执行日期：2017-03-08 12:39:53
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:22:33
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081322307761","total_fee":1,"trade_type":"JSAPI","time_start":"20170308132230","time_expire":"20170308132830","attach":"{\"starttime\":\"20170308132230\",\"endtime\":\"20170308132830\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"du44se87azdnkwsw4bqlhecyc24ey9td","sign":"1F68A1CDBCFA3CD2F8E800549F253972"}
+
+
+执行日期：2017-03-08 13:22:33
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:23:44
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081323448828","total_fee":1,"trade_type":"JSAPI","time_start":"20170308132344","time_expire":"20170308132944","attach":"{\"starttime\":\"20170308132344\",\"endtime\":\"20170308132944\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"dop1vpkc42g5nuunna9vy6qlr0qpmfml","sign":"60C50730E61994F241BCED19948E36DE"}
+
+
+执行日期：2017-03-08 13:23:44
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:25:12
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081325099581","total_fee":1,"trade_type":"JSAPI","time_start":"20170308132509","time_expire":"20170308133109","attach":"{\"starttime\":\"20170308132509\",\"endtime\":\"20170308133109\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"rn9ocin89pvqfncry8oiwyoutmrwv9gc","sign":"3ADF4A665E0C64F62A21E1C770CA77DB"}
+
+
+执行日期：2017-03-08 13:25:12
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:31:22
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081331191933","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133119","time_expire":"20170308133719","attach":"{\"starttime\":\"20170308133119\",\"endtime\":\"20170308133719\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"9sws53ubu8fyjhkw282aw3mjv6xt1dgv","sign":"45B27D2329A771E3FC3E3452A1B031BB"}
+
+
+执行日期：2017-03-08 13:31:22
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:34:05
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081334025165","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133402","time_expire":"20170308134002","attach":"{\"starttime\":\"20170308133402\",\"endtime\":\"20170308134002\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"p24paue5ozusvzo4avsmh4n6oglu52i3","sign":"13BDCF5C057F74221AF9C83BB5388562"}
+
+
+执行日期：2017-03-08 13:34:05
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:34:25
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081334255850","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133425","time_expire":"20170308134025","attach":"{\"starttime\":\"20170308133425\",\"endtime\":\"20170308134025\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"7n2ycekiiccqrnoi8f4gv2tinnr5j9bz","sign":"931351D059C5598F290FB68167F06C5C"}
+
+
+执行日期：2017-03-08 13:34:25
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:35:11
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081335119762","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133511","time_expire":"20170308134111","attach":"{\"starttime\":\"20170308133511\",\"endtime\":\"20170308134111\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"l75ex5ct21ka72be02owc96zegmnlm5s","sign":"E8CF04F2E53A012A39497C1EC9B32920"}
+
+
+执行日期：2017-03-08 13:35:11
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:36:43
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081336408164","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133640","time_expire":"20170308134240","attach":"{\"starttime\":\"20170308133640\",\"endtime\":\"20170308134240\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"rn7j18jky5fqzgrriilbgt44ffy9i9lu","sign":"62A61DC77B97EF30A4E1265F2724179F"}
+
+
+执行日期：2017-03-08 13:36:43
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:37:08
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081337074431","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133707","time_expire":"20170308134307","attach":"{\"starttime\":\"20170308133707\",\"endtime\":\"20170308134307\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"a66ljxikzcfwlw96hea6yo6tarswg14m","sign":"5F4E622C102A43615CFF1B859F1FA6D4"}
+
+
+执行日期：2017-03-08 13:37:08
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:37:22
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081337226225","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133722","time_expire":"20170308134322","attach":"{\"starttime\":\"20170308133722\",\"endtime\":\"20170308134322\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"eblku4fv16yfp2q0ztu6iaddaogzz00u","sign":"F51A610C7505543F7C999A4A452D0C2E"}
+
+
+执行日期：2017-03-08 13:37:22
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:37:49
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081337493974","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133749","time_expire":"20170308134349","attach":"{\"starttime\":\"20170308133749\",\"endtime\":\"20170308134349\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"uuk9fg8gphe86rkh2zqnw365h1uvv8zj","sign":"6435D2DF9626B549A77EC77E06B7E66E"}
+
+
+执行日期：2017-03-08 13:37:49
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:39:52
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081339489093","total_fee":1,"trade_type":"JSAPI","time_start":"20170308133948","time_expire":"20170308134548","attach":"{\"starttime\":\"20170308133948\",\"endtime\":\"20170308134548\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"qqqxsfafm0obzjlxsevau159x3704m1o","sign":"BDDC6934D5C6FC2D4F6EBB4D1C833079"}
+
+
+执行日期：2017-03-08 13:39:52
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:40:15
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081340144529","total_fee":1,"trade_type":"JSAPI","time_start":"20170308134014","time_expire":"20170308134614","attach":"{\"starttime\":\"20170308134014\",\"endtime\":\"20170308134614\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"7gflrqpls0xvwza74pyzladu1j99exru","sign":"61C2D52477A9D1DA6E2AC3A8B135DF14"}
+
+
+执行日期：2017-03-08 13:40:15
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:43:24
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081343216579","total_fee":1,"trade_type":"JSAPI","time_start":"20170308134321","time_expire":"20170308134921","attach":"{\"starttime\":\"20170308134321\",\"endtime\":\"20170308134921\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"utfd0y1j5qyy7utclifw5go0sn09txi1","sign":"9CC328BF40FE1C262D40E662E1282B3A"}
+
+
+执行日期：2017-03-08 13:43:24
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:52:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081351584893","total_fee":1,"trade_type":"JSAPI","time_start":"20170308135158","time_expire":"20170308135758","attach":"{\"starttime\":\"20170308135158\",\"endtime\":\"20170308135758\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"bnra79ydckgcbxmrwodh4g7f71grzo2s","sign":"2B79D6BBA8E298B26282C6E23AD08029"}
+
+
+执行日期：2017-03-08 13:52:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 13:59:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081358589434","total_fee":1,"trade_type":"JSAPI","time_start":"20170308135858","time_expire":"20170308140458","attach":"{\"starttime\":\"20170308135858\",\"endtime\":\"20170308140458\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"gjow6xwcrrhmh0ukmpeyduc2gw54f0y4","sign":"CAC0CA3F9B1EE6FFBF5B86C728A7D353"}
+
+
+执行日期：2017-03-08 13:59:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:11:00
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081510599604","total_fee":1,"trade_type":"JSAPI","time_start":"20170308151059","time_expire":"20170308151659","attach":"{\"starttime\":\"20170308151059\",\"endtime\":\"20170308151659\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"420v1fe9w73b59oohkfvda57qshcyo5f","sign":"986CBEE43B6E279995E041717DC71085"}
+
+
+执行日期：2017-03-08 15:11:00
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:12:13
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081512123611","total_fee":1,"trade_type":"JSAPI","time_start":"20170308151212","time_expire":"20170308151812","attach":"{\"starttime\":\"20170308151212\",\"endtime\":\"20170308151812\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"1n9zwm82sn3li7smb0qnodprknyms52j","sign":"FC22775C9C3AD849EE2E0F6067D0CEB6"}
+
+
+执行日期：2017-03-08 15:12:13
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:15:03
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081515013466","total_fee":1,"trade_type":"JSAPI","time_start":"20170308151501","time_expire":"20170308152101","attach":"{\"starttime\":\"20170308151501\",\"endtime\":\"20170308152101\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"rz6rsecx0jka808zf78ahgojte33jvs8","sign":"30EF683654978070B3D8AB10436DAE81"}
+
+
+执行日期：2017-03-08 15:15:03
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:16:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081516017162","total_fee":1,"trade_type":"JSAPI","time_start":"20170308151601","time_expire":"20170308152201","attach":"{\"starttime\":\"20170308151601\",\"endtime\":\"20170308152201\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"a7szyf1unyu6dx0vo6hjxvr37nfsq78q","sign":"F495CD648FFAD59E5C822686B5F8C316"}
+
+
+执行日期：2017-03-08 15:16:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:24:00
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081523591279","total_fee":1,"trade_type":"JSAPI","time_start":"20170308152359","time_expire":"20170308152959","attach":"{\"starttime\":\"20170308152359\",\"endtime\":\"20170308152959\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"zecj2417kgrkimvmweu1iq9imcqiz06e","sign":"60109D637C79FD303750E9ADA6FAD938"}
+
+
+执行日期：2017-03-08 15:24:00
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:25:22
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081525216721","total_fee":1,"trade_type":"JSAPI","time_start":"20170308152521","time_expire":"20170308153121","attach":"{\"starttime\":\"20170308152521\",\"endtime\":\"20170308153121\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"59t9jfasr5mf7xxzqn2x6rzfaayyu7a4","sign":"3A55D78F9BFC860EE9BF05E6AD078010"}
+
+
+执行日期：2017-03-08 15:25:22
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:27:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081527007999","total_fee":1,"trade_type":"JSAPI","time_start":"20170308152700","time_expire":"20170308153300","attach":"{\"starttime\":\"20170308152700\",\"endtime\":\"20170308153300\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"gi33khpsnhwxr4q0vn969ndpxeq5ex63","sign":"C1C612CB2171048A779779B2401EF9C9"}
+
+
+执行日期：2017-03-08 15:27:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:47:29
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081547287708","total_fee":1,"trade_type":"JSAPI","time_start":"20170308154728","time_expire":"20170308155328","attach":"{\"starttime\":\"20170308154728\",\"endtime\":\"20170308155328\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"47imcti75qzjze5n6hd12sxjpnwmfnsu","sign":"30D1946938C3F2335928E72F5C5786CC"}
+
+
+执行日期：2017-03-08 15:47:29
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:50:03
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081550015428","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155001","time_expire":"20170308155601","attach":"{\"starttime\":\"20170308155001\",\"endtime\":\"20170308155601\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"affo51c72q64u9mmpxdxpfzjydrir1ws","sign":"B5ADE660E15B92E62B6772C8D3DF518D"}
+
+
+执行日期：2017-03-08 15:50:03
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:51:32
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081551325397","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155132","time_expire":"20170308155732","attach":"{\"starttime\":\"20170308155132\",\"endtime\":\"20170308155732\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"1qy7odf3g8r796lo3um0bnk4hqr6pwaz","sign":"BE570F42B30F8F32086B42E7907D75C2"}
+
+
+执行日期：2017-03-08 15:51:32
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:53:38
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081553379763","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155337","time_expire":"20170308155937","attach":"{\"starttime\":\"20170308155337\",\"endtime\":\"20170308155937\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"b34ixp42taph91q5d9b4oehxtnxaoshi","sign":"A1F469856E307CF00E853FECE2898195"}
+
+
+执行日期：2017-03-08 15:53:38
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:56:20
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081556189183","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155618","time_expire":"20170308160218","attach":"{\"starttime\":\"20170308155618\",\"endtime\":\"20170308160218\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"fwoemtpzvb9d8eq02oi95fc8vv3o4hc6","sign":"DDE4E16AD7B80C3B3EBAC88FC88B0B0A"}
+
+
+执行日期：2017-03-08 15:56:20
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:56:54
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081556539570","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155653","time_expire":"20170308160253","attach":"{\"starttime\":\"20170308155653\",\"endtime\":\"20170308160253\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"wxktk1mo9nqyrckdd6l1w0tntc1aop0s","sign":"45A870CB9B64DA0C1D9392944438E9AE"}
+
+
+执行日期：2017-03-08 15:56:54
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:58:17
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081558177454","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155817","time_expire":"20170308160417","attach":"{\"starttime\":\"20170308155817\",\"endtime\":\"20170308160417\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"trxpp8vq95gejc6p0djjm2fqg90fso6f","sign":"94B9A92BD144A5FBF1126EE74A286F9D"}
+
+
+执行日期：2017-03-08 15:58:17
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 15:59:17
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081559169962","total_fee":1,"trade_type":"JSAPI","time_start":"20170308155916","time_expire":"20170308160516","attach":"{\"starttime\":\"20170308155916\",\"endtime\":\"20170308160516\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"gaemn1vtqxgks9rzxuoxsj8btxinyld9","sign":"9A34E1CA16F17499D2DF8F3ADAF48B69"}
+
+
+执行日期：2017-03-08 15:59:17
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:01:46
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081601447331","total_fee":1,"trade_type":"JSAPI","time_start":"20170308160144","time_expire":"20170308160744","attach":"{\"starttime\":\"20170308160144\",\"endtime\":\"20170308160744\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"os158l1sjwezpp70gecbqd226ct7bd8k","sign":"0CAC5FAA95C85687FA62BD38F6134D27"}
+
+
+执行日期：2017-03-08 16:01:46
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:03:26
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081603256282","total_fee":1,"trade_type":"JSAPI","time_start":"20170308160325","time_expire":"20170308160925","attach":"{\"starttime\":\"20170308160325\",\"endtime\":\"20170308160925\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"xwgenrrbi5exnlxf6mz7pz9i9jrofnzl","sign":"9D2D143699F19FC1B26E7D13A287DF02"}
+
+
+执行日期：2017-03-08 16:03:26
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:04:09
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081604089544","total_fee":1,"trade_type":"JSAPI","time_start":"20170308160408","time_expire":"20170308161008","attach":"{\"starttime\":\"20170308160408\",\"endtime\":\"20170308161008\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"hpf7ka64nq80t4rypq0tjuicqwvsh0y1","sign":"3C0BB2DE32E543CD35B45B12EBFF4DE8"}
+
+
+执行日期：2017-03-08 16:04:09
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:06:26
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081606258264","total_fee":1,"trade_type":"JSAPI","time_start":"20170308160625","time_expire":"20170308161225","attach":"{\"starttime\":\"20170308160625\",\"endtime\":\"20170308161225\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"jvnvemz5guenzw2s2f05875xqwey85ot","sign":"7A52B1DD90E40CF10D03379717384246"}
+
+
+执行日期：2017-03-08 16:06:26
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:09:23
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081609211447","total_fee":1,"trade_type":"JSAPI","time_start":"20170308160921","time_expire":"20170308161521","attach":"{\"starttime\":\"20170308160921\",\"endtime\":\"20170308161521\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"fqlsojks50dts159k4fgyooezldwhxif","sign":"A394E6B3FCBB776E1CB52599E800C0B7"}
+
+
+执行日期：2017-03-08 16:09:23
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:10:57
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081610565394","total_fee":1,"trade_type":"JSAPI","time_start":"20170308161056","time_expire":"20170308161656","attach":"{\"starttime\":\"20170308161056\",\"endtime\":\"20170308161656\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"7sqqe7ek5bf0xyhtzvc9uzov2me42x02","sign":"6DDC3163381DD87B839A7242870B9D08"}
+
+
+执行日期：2017-03-08 16:10:57
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:30:40
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081630398026","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163039","time_expire":"20170308163639","attach":"{\"starttime\":\"20170308163039\",\"endtime\":\"20170308163639\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"b7ncjs866bm8bohznbdcpktwvm5lok6p","sign":"39CAE04D7287FE8C4F05061755A10540"}
+
+
+执行日期：2017-03-08 16:30:40
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:31:13
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081631138612","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163113","time_expire":"20170308163713","attach":"{\"starttime\":\"20170308163113\",\"endtime\":\"20170308163713\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"rrer7bcwmblav5ckffuobwox0ea2usle","sign":"1949E6717B3C79330D948D3263FC6544"}
+
+
+执行日期：2017-03-08 16:31:13
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:31:37
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081631378826","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163137","time_expire":"20170308163737","attach":"{\"starttime\":\"20170308163137\",\"endtime\":\"20170308163737\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"rzfiwargpeknculwrxlcf4gmngqbpj7n","sign":"BE6597C68E3C63AAF699F51DA49E9769"}
+
+
+执行日期：2017-03-08 16:31:37
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:32:37
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081632364252","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163236","time_expire":"20170308163836","attach":"{\"starttime\":\"20170308163236\",\"endtime\":\"20170308163836\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"dsyxsldqbnh5gm5eqvls02gpcu0esd6w","sign":"F8FB36BC8C8D88650039347A9AA72BE2"}
+
+
+执行日期：2017-03-08 16:32:37
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:33:20
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081633192587","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163319","time_expire":"20170308163919","attach":"{\"starttime\":\"20170308163319\",\"endtime\":\"20170308163919\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"cbu0hv0mwzk9m4e8nuie5irxosuuk18x","sign":"40CBD8A9B654F26A0D0D6775C9E5AA47"}
+
+
+执行日期：2017-03-08 16:33:20
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:35:26
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081635247919","total_fee":1,"trade_type":"JSAPI","time_start":"20170308163524","time_expire":"20170308164124","attach":"{\"starttime\":\"20170308163524\",\"endtime\":\"20170308164124\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"sqwuugs4ceb2jgmjwli0dna093wp1y9g","sign":"77E4EB234F55E8B8864D49AA53D92608"}
+
+
+执行日期：2017-03-08 16:35:26
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:42:02
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081642017781","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164201","time_expire":"20170308164801","attach":"{\"starttime\":\"20170308164201\",\"endtime\":\"20170308164801\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"bvnu0sbcbh0jxwf5dyo3rm7sk31kpmk0","sign":"02E43DB108D7C935455A4EEE7A507C1C"}
+
+
+执行日期：2017-03-08 16:42:02
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:42:39
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081642388166","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164238","time_expire":"20170308164838","attach":"{\"starttime\":\"20170308164238\",\"endtime\":\"20170308164838\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"i1hug1e6iz3y9yvqi2fkprs5lomffn2b","sign":"D22DD51495462757EA0F989013EC03EE"}
+
+
+执行日期：2017-03-08 16:42:39
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:43:46
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081643452812","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164345","time_expire":"20170308164945","attach":"{\"starttime\":\"20170308164345\",\"endtime\":\"20170308164945\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"kh3r7u9uj33s5sbivicc88kie0bp66s4","sign":"B65CF192B5B2F11706AF2E00E3F8EE57"}
+
+
+执行日期：2017-03-08 16:43:46
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:44:34
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081644337216","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164433","time_expire":"20170308165033","attach":"{\"starttime\":\"20170308164433\",\"endtime\":\"20170308165033\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"hiv5qsmy1anedjw9w8x9fug2vx69xrbr","sign":"52F599B374AD1B494A3CA60DD9560FCE"}
+
+
+执行日期：2017-03-08 16:44:34
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:45:13
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081645137770","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164513","time_expire":"20170308165113","attach":"{\"starttime\":\"20170308164513\",\"endtime\":\"20170308165113\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"57yg1ml9q9gpow8eqa5gkn56ag5g8xac","sign":"8D5F36BEA8444007DF49D12811FF713B"}
+
+
+执行日期：2017-03-08 16:45:13
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:46:21
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081646205424","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164620","time_expire":"20170308165220","attach":"{\"starttime\":\"20170308164620\",\"endtime\":\"20170308165220\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"pasf5wo2h6xs3kbn3keik7h1pfjqe7bx","sign":"BE48A357E7D24F0CB05D4577D568E400"}
+
+
+执行日期：2017-03-08 16:46:21
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:47:08
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081647069682","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164706","time_expire":"20170308165306","attach":"{\"starttime\":\"20170308164706\",\"endtime\":\"20170308165306\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"e2w15huyzjtfn3273j36f7r8wd1e2do9","sign":"B3E7723A5442AF9915C32FA69A7B4D32"}
+
+
+执行日期：2017-03-08 16:47:08
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:47:25
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081647254933","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164725","time_expire":"20170308165325","attach":"{\"starttime\":\"20170308164725\",\"endtime\":\"20170308165325\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"c87qd67q28iq3hq6g921y0w2zipht71j","sign":"AFE147FE6313DA248FDC33AB21DE9977"}
+
+
+执行日期：2017-03-08 16:47:25
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 16:47:38
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081647385703","total_fee":1,"trade_type":"JSAPI","time_start":"20170308164738","time_expire":"20170308165338","attach":"{\"starttime\":\"20170308164738\",\"endtime\":\"20170308165338\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"q88ur3uw18ebw8sg5d669irh9y578f70","sign":"DC049E76CDB5F296D942EA711A922BE3"}
+
+
+执行日期：2017-03-08 16:47:38
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 17:36:27
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081736266403","total_fee":1,"trade_type":"JSAPI","time_start":"20170308173626","time_expire":"20170308174226","attach":"{\"starttime\":\"20170308173626\",\"endtime\":\"20170308174226\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"28bj7pwzvx45saa12rfmv2pnldwmanc0","sign":"7AC5EFB5A239F0F029097B3A9E17F932"}
+
+
+执行日期：2017-03-08 17:36:27
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 17:39:12
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081739102933","total_fee":1,"trade_type":"JSAPI","time_start":"20170308173910","time_expire":"20170308174510","attach":"{\"starttime\":\"20170308173910\",\"endtime\":\"20170308174510\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"yugp6lr346g5doud2vtt10d9m59sulg9","sign":"D498A6FCC324EBF53C79E64E61B01527"}
+
+
+执行日期：2017-03-08 17:39:12
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 17:40:01
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081740013411","total_fee":1,"trade_type":"JSAPI","time_start":"20170308174001","time_expire":"20170308174601","attach":"{\"starttime\":\"20170308174001\",\"endtime\":\"20170308174601\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"ln5a266by9xr703q1uqalcihlkreyiwo","sign":"886FF80D2ACFE3BE39D2A626BBAA484C"}
+
+
+执行日期：2017-03-08 17:40:01
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 17:44:34
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081744331832","total_fee":1,"trade_type":"JSAPI","time_start":"20170308174433","time_expire":"20170308175033","attach":"{\"starttime\":\"20170308174433\",\"endtime\":\"20170308175033\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"t9f06dubfy88ev5anntiyl3g4prgzap2","sign":"83D86710B70D6FC860A0825F4E506CE5"}
+
+
+执行日期：2017-03-08 17:44:34
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+
+执行日期：2017-03-08 18:59:19
+【接收到的支付调用参数】:
+{"openid":"33","body":"\u90d1\u5dde\u738b\u5e9c\u4e95\u7199\u5730\u6e2f\u5e97\u4e00\u5143\u8d2d","out_trade_no":"201703081859187330","total_fee":1,"trade_type":"JSAPI","time_start":"20170308185918","time_expire":"20170308190518","attach":"{\"starttime\":\"20170308185918\",\"endtime\":\"20170308190518\"}","product_id":"2323","appid":"wx6a7da1d2770a17a0","notify_url":"http:\/\/www.wexue.top\/games\/zz\/wxPayApi\/wx-scan-code-notify.php","mch_id":"1438028502","spbill_create_ip":"127.0.0.1","nonce_str":"wdd9vc5t8vvpk5xcej8inrp4aly6t0r1","sign":"B809F326670C2A68F0CC043864AC9C9B"}
+
+
+执行日期：2017-03-08 18:59:19
+【获取预支付订单结果】:
+
+ prepayid:
+ {"return_code":"FAIL","return_msg":"time_expire时间过短，刷卡至少1分钟，其他5分钟"}
+

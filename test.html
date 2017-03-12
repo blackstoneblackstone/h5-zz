@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        @font-face {
+            font-family: 'hx';
+            src: url('css/hx.eot');
+            src:
+                    url('css/hx.eot?#font-spider') format('embedded-opentype'),
+                    url('css/hx.woff') format('woff'),
+                    url('css/hx.ttf') format('truetype'),
+                    url('css/hx.svg') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #bdb4ab;
+            font-family: "hx";
+        }
+    </style>
+</head>
+<body>
+<div>
+    <h1 style="margin-top: 50px;font-size: 100px;color: #6d2a16;">
+        换购成功
+    </h1>
+    <img src="../img/code.jpeg" style="width: 400px;">
+    <p style="font-size: 25px;">
+        长按二维码关注公众号
+    </p>
+    <p></p>
+    <p>请关注郑州王府井熙地港店公众号,</p>
+    <p>点击“一元购”查看使用说明</p>
+    <p>换取99元美食大礼包。</p>本活动最终解释权归王府井百货所有 兑换时间
+    <p style="color: #000000"><?php echo $un; ?>,您已经购买了<span
+            style="color: #bc1a20;font-size: 100px;"><?php echo $row[0]; ?></span>张一元换购券,</p>
+    <p style="color: #000000">请在活动期间,</p>
+    <p style="color: #000000"> 凭 红包发放中...此页面到郑州王府井熙地港店三楼会员中心</p>
+    <p style="color: #000000"> 领取纸质 text = ["周大生 \n 黄金每克减20元", "金伯利\n满万元,加长悍马\n作婚车", "百丽map\n100减55", "Masfer.SU\n200减100/60",
+        "JNBY\n消费满1500赠送JNBY浴巾；", "adidas\n满200减80/60", "FILA\n 满200减80/60", "NIKE\n满200减80/60", "环邮国际\n抽奖赢豪华邮轮船票","New Balance\n200减50\n部分499元起"
+        ];券大礼包
+        操作卡通小人，走到终点\n就可一两元换购99元美食大礼包,\n分享可再获得一次换购机会.只要集齐99元红包,\n就可以
+    装修</p>
+    周大生 \n 满1000减200", "金伯利\n满万元,加长悍马当婚车", "百丽map\n100减55", "Masfer.SU\n精选款式5-7折优惠",
+    "JNBY\n满200减只要99步80", "adidas\n满200减80/60", "FILA\n 7.5折,部分一口价499", "NIKE\n满200减80", "环邮国际\n抽奖赢豪华邮轮船票"
+    <p style="color: #000000;margin-top: 100px;margin-bottom: 100px"><?php echo $un; ?>,您还没有参加有活动.</p>
+    <img src="img/rank-play.png" onclick="play()">
+    <h1 style="margin-top: 50px;font-size: 100px;color: #6d2a16;">
+        换购失败
+    </h1>
+    <p></p>
+    <p>您的换购机会已经用完了,</p>
+    <p>分享给好友可以重新获得一次换购机会</p>
+    <p>每人最多只能换购一次哦!</p>
+</div>
+<?php } ?>
+<div style="text-align: center;font-size: 20px;color: #bc1a20;margin-top: 50px">
+    活动时间:3月16日-3月19日
+</div>
+<div class="js_dialog" id="androidDialog1" style="opacity: 1;display: none">
+    <div class="weui-mask"></div>
+    <div class="weui-dialog weui-skin_android">
+        <div class="weui-dialog__hd"><strong class="weui-dialog__title">输入兑奖密码</strong></div>
+        <div class="weui-dialog__bd">
+            <input type="tel" class="weui-input" id="pwd"
+                   style="height: 60px;border: solid #cccccc 1px;font-size: 30px">
+        </div>
+        <div class="weui-dialog__ft">
+            <a href="javascript:;" id="cancel" class="weui-dialog__btn weui-dialog__btn_default">取消</a>
+            <a href="javascript:;" id="confirm" class="weui-dialog__btn weui-dialog__btn_primary">确认</a>
+        </div>
+    </div>
+</div>
+<div id="toast" style="display: none;">
+    <div class="weui-mask_transparent"></div>
+    <div class="weui-toast">
+        <i class="weui-icon-success-no-circle weui-icon_toast"></i>
+        <p class="weui-toast__content">已完成</p>
+    </div>
+</div>
+</div>
+
+
+</body>
+</html>
