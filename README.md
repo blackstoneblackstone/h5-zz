@@ -15,7 +15,7 @@
 
 
 ##示例地址
-![扫描二维码](https://github.com/lihongbin100/h5-zz/blob/master/code.png)
+![扫描二维码](https://github.com/lihongbin100/h5-zz/blob/master/doc/code.png)
 
 ## UI设计
 
